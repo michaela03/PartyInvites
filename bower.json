@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "asp.net",
   "private": true,
@@ -8,3 +9,15 @@
     "jquery-validation-unobtrusive": "3.2.6"
   }
 }
+=======
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.0",
+    "jquery-validation": "1.14.0",
+    "jquery-validation-unobtrusive": "3.2.6"
+  }
+}
+>>>>>>> 913ff64f5a502d60f3bf8f638540017b703827bc

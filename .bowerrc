@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {
   "directory": "wwwroot/lib"
 }
+=======
+{
+  "directory": "wwwroot/lib"
+}
+>>>>>>> 913ff64f5a502d60f3bf8f638540017b703827bc
